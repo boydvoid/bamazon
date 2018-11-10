@@ -9,7 +9,7 @@ Make sure to NPM Install.
 
 ## Demo
 
-<img src="https://github.com/robaboyd/bamazon/blob/master/demo.png" >
+<img src="https://github.com/robaboyd/bamazon/blob/master/demo.gif" >
 
 ## Database 
 
