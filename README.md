@@ -9,9 +9,7 @@ Make sure to NPM Install.
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/robaboyd/bamazon/blob/master/2018-11-10_13-59-23.mp4" type="video/mp4">
-</video>
+<img src="https://github.com/robaboyd/bamazon/blob/master/MySQLWorkbench_2018-11-10_12-46-54.png" >
 
 ## Database 
 
