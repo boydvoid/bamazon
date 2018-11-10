@@ -9,7 +9,7 @@ Make sure to NPM Install.
 
 ## Demo
 
-<img src="https://github.com/robaboyd/bamazon/blob/master/MySQLWorkbench_2018-11-10_12-46-54.png" >
+<img src="https://github.com/robaboyd/bamazon/blob/master/demo.png" >
 
 ## Database 
 
